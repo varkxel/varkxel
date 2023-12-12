@@ -1,5 +1,5 @@
 # GitHub.com/varkxel
-Hi, I make games and game tech on here, along with other side projects.
+Hi, I make games and game tech on here along with other side projects.
 
 ## Notable Projects
 These are the projects I feel should be showcased, so I'll put them here:
